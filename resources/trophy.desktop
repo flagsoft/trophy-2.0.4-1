@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Trophy
+GenericName=Racing Game
+Comment=2D car racing game with power-ups
+Icon=trophy
+TryExec=trophy
+Exec=trophy
+Categories=Game;ArcadeGame;
