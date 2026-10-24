@@ -9,13 +9,7 @@
 
 
 
-NOTE: This works only with macOS right now. Because it uses a compatibility layer for ClanLib 1.0 calls to ClanLib 4.1.0.
-
-```
-cl1_cocoa.mm
-cl1compat.h
-cl1compat.cpp
-```
+NOTE: This works only with macOS right now. Because it uses a compatibility layer for ClanLib 1.0 calls to ClanLib 4.1.0. Files: cl1_cocoa.mm, cl1compat.h, cl1compat.cpp.
 
 Trophy 2D car racing game (with Clanlib 4.1.0)
 
