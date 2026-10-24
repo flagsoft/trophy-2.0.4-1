@@ -1,5 +1,10 @@
 # trophy-2.0.4-1
 
+
+<img width="1602" height="1202" alt="img01" src="https://github.com/user-attachments/assets/57fbd053-2726-454d-abb1-f40a07b0ed4f" />
+
+
+
 NOTE: This works only with macOS right now. Because it uses a compatibility layer for ClanLib 1.0 calls to ClanLib 4.1.0.
 
 Trophy 2D car racing game (with Clanlib 4.1.0)
