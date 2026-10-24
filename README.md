@@ -1,7 +1,8 @@
 # trophy-2.0.4-1
 
 
-<img width="1602" height="1202" alt="img01" src="https://github.com/user-attachments/assets/57fbd053-2726-454d-abb1-f40a07b0ed4f" />
+<img width="400"  alt="img01" src="https://github.com/user-attachments/assets/57fbd053-2726-454d-abb1-f40a07b0ed4f" />
+
 
 
 
