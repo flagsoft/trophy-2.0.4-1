@@ -1,5 +1,9 @@
 # trophy-2.0.4-1
 
+## Trophy 2D car racing game (with with compatibiliy layer for Clanlib 4.1.0) 
+
+NOTE: This works only with macOS right now. Because it uses a compatibility layer for ClanLib 1.0 calls to ClanLib 4.1.0.
+Known to work on macOS Sequoia(15.8.1) with Intel chip.
 
 <img width="300"  alt="img01" src="https://github.com/user-attachments/assets/57fbd053-2726-454d-abb1-f40a07b0ed4f" />
 
@@ -7,14 +11,6 @@
 
 <img width="300"  alt="img03" src="https://github.com/user-attachments/assets/f122a94d-1d17-4ae4-a812-f9c58d7c2e3c" />
 
-
-
-NOTE: This works only with macOS right now. Because it uses a compatibility layer for ClanLib 1.0 calls to ClanLib 4.1.0.
-
-
-Trophy 2D car racing game (with Clanlib 4.1.0)
-
-Known to work on macOS Sequoia(15.8.1) with Intel chip.
 
 This is Trophy 2.0.4 ported to ClanLib 4.1.0. The game code is almost unchanged.
 `src/cl1compat.h`, `src/cl1compat.cpp` and `cl1_cocoa.mm` provide the ClanLib 1.0 calls that
