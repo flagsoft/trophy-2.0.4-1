@@ -32,7 +32,12 @@ bash ./autogen.sh
 ### Build with
 
 ```
-cd ./trophy-2.0.4-1
+bash ./DO-build.sh
+```
+
+Which does:
+
+```
 cd ./src
 cmake -S . -B build \
 	  -DCLANLIB_SOURCE_DIR=/Volumes/DATA-5TB/trophy/clanlib/4.1.0/ClanLib-4.1.0 \
@@ -40,9 +45,10 @@ cmake -S . -B build \
 cmake --build build
 ```
 
+
 ### run it
 ```
-./build/trophy
+./src/build/trophy
 ```
 
 
