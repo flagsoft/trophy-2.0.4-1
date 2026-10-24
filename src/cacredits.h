@@ -1,0 +1,32 @@
+#ifndef CACREDITS_H
+#define CACREDITS_H
+
+#include "cl1compat.h"
+#include "cl1compat.h"
+#include "cadialog.h"
+#include <vector>
+#include <string>
+
+/** Credits screen.
+    @author Andrew Mustun
+*/
+class CACredits : public CADialog  {
+public:
+    CACredits();
+    ~CACredits();
+
+    virtual void buildScreen();
+    virtual void on_key_released( const CL_InputEvent &key );
+
+protected:
+    void setText(const std::vector<std::string>& newText);
+
+private:
+    //! Position of scrolling text
+    float scrollPos;
+    //! The scrolling text
+    std::vector<std::string> text;
+    
+};
+
+#endif
